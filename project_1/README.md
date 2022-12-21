@@ -44,4 +44,4 @@ ___
 
 [ноутбук]: https://github.com/nickarctic/datascience/blob/main/project_1/project_1.ipynb
 
-[файл]: https://drive.google.com/file/d/10cWMHBr0-bqi5CcJAzSXZecBbFgMRXsN/view?usp=share_link 
+[файл]: 
