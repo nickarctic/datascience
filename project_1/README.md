@@ -16,7 +16,7 @@ ___
 
 - _базовый анализ структуры данных_
 - _преобразование данных_
-- _разведывательный анализ_
+- _разведывательный анализ_ (для удобства, вся визуализация представлена в отдельной __[папке]__)
 - _очистка данных_
 ___
 
@@ -45,3 +45,5 @@ ___
 [ноутбук]: https://github.com/nickarctic/datascience/blob/main/project_1/project_1.ipynb
 
 [файл]: https://drive.google.com/file/d/10cWMHBr0-bqi5CcJAzSXZecBbFgMRXsN/view?usp=share_link
+
+[папке]: https://github.com/nickarctic/datascience/tree/main/project_1/visual
